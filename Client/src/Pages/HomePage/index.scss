@@ -1,0 +1,30 @@
+.shopping-page{
+background-color: #f6379b;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+.shopping-page-content{
+    p{font-size: 48px;
+        color: white;
+        font-family: "Poppina";
+        font-weight: 400;
+    }
+    h2{
+        font-size: 72px;
+        color: #FFF;
+        font-family: "Poppina";
+        font-weight: 700;
+
+    }
+    button{
+        font-family: "Poppina";
+        font-size: 14px;
+        font-weight: 600;
+        border: 1px solid black;
+        border-radius: 2rem;
+        text-transform: uppercase;
+        padding: 20px;
+    }
+}
+}

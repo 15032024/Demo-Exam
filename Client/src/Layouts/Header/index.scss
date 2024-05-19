@@ -1,0 +1,17 @@
+header{
+
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 5rem;
+
+        nav{
+         ul{
+            display: flex;
+            gap: 1.5rem;
+         }   
+        }
+    }
+}
