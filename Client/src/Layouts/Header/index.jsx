@@ -28,7 +28,7 @@ const Header = () => {
           <NavLink>Latest</NavLink>
         </li>
         <li>
-          <NavLink>Pages</NavLink>
+          <NavLink to="/add-products">Add Product</NavLink>
         </li>
       </ul>
     </nav>
